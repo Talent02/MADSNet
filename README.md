@@ -14,7 +14,7 @@ Road extraction from high-resolution remote sensing images (HRSIs) is critical f
 ## 3. Proposed Method: MADSNet
 A novel network integrating three core modules to address the above problems, based on an encoder-decoder architecture with ResNet34 as the pretrained backbone :
 - **MFFE Decoder**: Combines the Relevance Inquiry Attention (RIA) module (window-based self-attention for long-range dependencies) and Scope Flexible Fusion (SFF) module (multiscale dilated convolutions to expand receptive field), enhancing context capture with low computational cost .  
-- **OCGA Module**: Improves graph attention with KNN algorithm, aggregating neighboring nodes with similar features to strengthen focus on road regions and make up for MFFE’s local perception limitation .  
+- **OCGA Module**: Improves graph attention with KNN algorithm, aggregating neighboring nodes with similar features to strengthen focus on road regions .  
 - **MFS Module**: Activates stage-specific road features and suppresses noise/interference across four decoder levels, fusing multiscale outputs to refine segmentation of roads of different sizes .
 
 ## 4. Experimental Validation
