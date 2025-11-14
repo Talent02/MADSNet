@@ -1,4 +1,4 @@
-### Multiscale Adaptive Decoder and Diversity Selection Network for Road Extraction in Remote Sensing Image (TGRS 2025) ###
+# Multiscale Adaptive Decoder and Diversity Selection Network for Road Extraction in Remote Sensing Image (TGRS 2025) #
 
 ## Citation ##
 If you find this code useful, please cite our paper.
