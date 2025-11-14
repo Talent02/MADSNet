@@ -36,6 +36,10 @@ MADSNet outperforms state-of-the-art methods (e.g., U-Net, DeepLabV3+, CMTFNet) 
 - Excels in handling occluded roads (e.g., tree-covered paths) and similar background interference (e.g., red brick areas misclassified as roads by other methods) ;  
 - Maintains road continuity and detail accuracy for dense road networks .
 
+
+![vd](https://github.com/Talent02/MADSNet/raw/main/CHN6.pdf)
+
+
 ## 5. License & Acknowledgement
 - **Funding**: Supported by NSFC Key Project (U20B2068), National Natural Science Foundation of China (62106006, 61976004) ;  
 - **Code Repository**: https://github.com/Talent02/MADSNet .
