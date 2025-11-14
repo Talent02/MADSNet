@@ -2,7 +2,8 @@
 
 ## 1. Core Information
 - **Title**: Multiscale Adaptive Decoder and Diversity Selection Network for Road Extraction in Remote Sensing Image  
-- **Publication**: IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 63, 2025 
+- **Publication**: IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 63, 2025
+- **Paper**: https://ieeexplore.ieee.org/document/11021615
 - **DOI**: 10.1109/TGRS.2025.3576200 
 - **Authors**: Zhen-Tao Hua, Si-Bao Chen (Corresponding Author), Wei Lu, Jin Tang, Bin Luo 
 
